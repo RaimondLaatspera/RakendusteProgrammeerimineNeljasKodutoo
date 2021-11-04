@@ -1,0 +1,41 @@
+form{
+    margin: auto;
+    text-align: center;
+    width: 15%;
+    border: 5px;
+    border-style: solid;
+    border-radius: 10%;
+    border-color: darkblue;
+    background-color: gray;
+
+}
+label{
+    font-size: x-large;
+    font-style:oblique;
+    color:aquamarine;
+}
+
+.insertButton {
+    background-color: blue;
+    border:3px solid black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.insertButton:hover{
+    background-color: rgba(29, 29, 233, 0.829);
+}
+
+input{
+    font-size: large;
+    background-color: lightgreen;
+    width:90%;
+}
+
+.banner{
+    height: 50%;
+    width: 50%;
+}
